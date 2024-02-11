@@ -19,3 +19,9 @@
 - [LINK](https://app.kajabi.com/certificates/737e47a6)
 ## SEGURIDAD INFORMÁTICA
 - [LINK](https://i.ibb.co/dK92QRG/Certificado-Internacional-en-Ciberseguridad.png)
+
+
+## 📄 Licencia 
+
+MIT Public License v3.0
+No puede usarse comercialmente
