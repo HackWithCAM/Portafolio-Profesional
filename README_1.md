@@ -12,13 +12,6 @@
 ## 👉 Sobre mí
 **Soy un ingeniero con sólida formación académica con la capacidad de intervenir los sistemas y redes de telecomunicaciones que demandan las grandes organizaciones a nivel global y Tengo la capacidad de hacer pruebas de penetración "Pentesting" en sistemas operativos Windows y servidores Linux Estoy centrado en ser Blue Team. Al mismo tiempo grabo y publico vídeos en resolver máquinas en** [Youtube](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA).
 
-
-## 📹 Vídeos favoritos de mi canal de [Youtube](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA) [![Youtube](https://i.ibb.co/0DC2pLM/5-removebg-preview.png)](https://www.youtube.com/channel/UCe_bOHY9exo_enRp8_amdOA)
-<a href='https://www.youtube.com/watch?v=j6RZqCe4hTs' title="Aplicando el método LEAN Startup en tu PORTFOLIO - ver en Youtube" target='_blank'>
-  <img width='32%'  src='https://i3.ytimg.com/vi/j6RZqCe4hTs/maxresdefault.jpg' alt='Aplicando el método LEAN Startup en tu PORTFOLIO' />
-</a>
-
-
 ## 📝 Certificaciones :
 ## EHCA
 - [LINK](https://i.ibb.co/n87LTqv/Certificate-In-EHCA.jpg)
